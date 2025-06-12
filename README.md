@@ -1,5 +1,24 @@
-## Next.js App Router Course - Starter
+# 🎬 Next Dash – Movie Explorer
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+🔗 **Live Demo:** [https://next-dash.vercel.app]([https://next-dash.vercel.app](https://movie-app-iota-self.vercel.app/))
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+**Next Dash** is a sleek movie discovery app built with **Next.js 13**, allowing users to **search for movies** and explore the **trending titles** of the moment using the [TMDb API](https://www.themoviedb.org/).
+
+---
+
+## 🔍 What does it do?
+
+- Search for movies by name or keyword.
+- View **trending movies** (most popular right now).
+- Display movie posters, titles, and brief overviews.
+- Built with a modern UI using **Tailwind CSS**.
+
+---
+
+## 🧪 Tech Stack
+
+- [Next.js 13 (App Router)](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TMDb API](https://developer.themoviedb.org/)
