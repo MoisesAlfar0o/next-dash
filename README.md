@@ -1,6 +1,6 @@
 # 🎬 Next Dash – Movie Explorer
 
-🔗 **Live Demo:** [https://next-dash.vercel.app]([https://next-dash.vercel.app](https://movie-app-iota-self.vercel.app/))
+🔗 **Live Demo:** [Movie app](https://movie-app-iota-self.vercel.app/)
 
 **Next Dash** is a sleek movie discovery app built with **Next.js 13**, allowing users to **search for movies** and explore the **trending titles** of the moment using the [TMDb API](https://www.themoviedb.org/).
 
